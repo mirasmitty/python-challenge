@@ -2,7 +2,7 @@
 # Background
 It's time to put away the Excel sheet and enter the world of programming with Python. In this assignment, you'll use the concepts you've learned to complete two Python challenges, PyBank and PyPoll. Both tasks present a real-world situation where your newly developed Python scripting skills come in handy.
 
-This repository contains Python scripts for analyzing financial records (PyBank) and election data (PyPoll).
+This repository contains Python code for analyzing financial records (PyBank) and election data (PyPoll).
 
 # Project Structure
 
@@ -11,9 +11,11 @@ The project is organized as follows:
 - `PyBank`: Folder containing the PyBank Python script and related files.
     - `Resources`: Folder containing the CSV file used for analysis.
     - `analysis`: Folder containing the text file with the results of the analysis.
+    - `main.py`: File cotaining code for PyBank analysis
 - `PyPoll`: Folder containing the PyPoll Python script and related files.
   - `Resources`: Folder containing the CSV file used for analysis.
   - `analysis`: Folder containing the text file with the results of the analysis.
+  - `main.py`: File cotaining code for PyPoll analysis
 
 # Author
 Miranda Smith
